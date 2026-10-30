@@ -54,6 +54,12 @@ utils.sendMessage(msg, Map, IRequestListener)              → 15 秒回调
 - 再往下只能靠：注入具体数字/场景、换段落骨架、句长突变
 - 13 版实测数据 + 可用提示词在 [paperpass-aigc-playbook](https://github.com/yehuzhucha/paperpass-aigc-playbook)
 
+
+## 其他工作
+
+服务器扩容与修复、DMIT IPv6 结论、账号清理、常驻服务清单、论文与开题报告、学习通刷课：
+[`docs/其他工作-2026-10.md`](docs/其他工作-2026-10.md)
+
 ## 通用方法论
 
 1. **先隔离变量**：无模块包 / 有模块包、官方版 / 补丁版
